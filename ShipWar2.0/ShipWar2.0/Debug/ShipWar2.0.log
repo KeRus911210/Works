@@ -1,0 +1,5 @@
+﻿  ShipWar2.0.cpp
+C:\Users\Пользователь\source\repos\ShipWar2.0\ShipWar2.0\ShipWar2.0.cpp(18,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Пользователь\source\repos\ShipWar2.0\ShipWar2.0\ShipWar2.0.cpp(18,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Пользователь\source\repos\ShipWar2.0\ShipWar2.0\ShipWar2.0.cpp(856,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ShipWar2.0.vcxproj -> C:\Users\Пользователь\source\repos\ShipWar2.0\Debug\ShipWar2.0.exe
